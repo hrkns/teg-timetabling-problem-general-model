@@ -1,0 +1,7 @@
+los mas sencillos
+	cb	toy.ectt
+	pe	easy04.tim
+
+los mas pesados
+	cb	erlangen2011_2.ectt
+	pe	big_17.tim
